@@ -2,6 +2,12 @@
 
 An AI-powered tool that automatically transcribes, translates, and summarizes meeting recordings using advanced speech and language models.
 
+## 🎥 Demo Video
+
+[![AI Meeting Summarizer Demo](https://img.shields.io/badge/📺-Watch_Demo_Video-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1MTDyPMd81o4p__Pf0Rkl-nc2aQ6qectn/view?usp=drive_link)
+
+*Click above to watch the demo video showing the complete workflow*
+
 ## 🛠️ Tech Stack
 
 | Component | Technology | Purpose |
@@ -61,3 +67,6 @@ LLaMA Summarization
         ↓
 Display & Download Results
 ```
+
+---
+
