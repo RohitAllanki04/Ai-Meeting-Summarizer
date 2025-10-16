@@ -6,7 +6,7 @@ An AI-powered tool that automatically transcribes, translates, and summarizes me
 
 [![AI Meeting Summarizer Demo](https://img.shields.io/badge/📺-Watch_Demo_Video-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1viUEwyPAsReyoWM7rEpQvx95IBtNEzIa/view?usp=sharing)
 
-*Click above to watch the demo video showing the complete workflow*
+*Click above to watch the demo video how it's works*
 
 ## 🛠️ Tech Stack
 
